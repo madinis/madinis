@@ -3,10 +3,10 @@
 - 🌱 I’m currently integrating some publications undertaken by the ESSSR https://esssr.eu/ and the IUSDRP https://www.haw-hamburg.de/ftz-nk/programme/iusdrp.html
 - 💞️ I’m looking to collaborate at high level research
 - 📫 How to reach me: 
-    * https://orcid.org/0000-0002-2198-6740 
-    * https://www.scopus.com/authid/detail.uri?authorId=55539804000
-    * http://www.researcherid.com/rid/F-3309-2011
-    * http://www.cienciavitae.pt//4710-147D-FDAF
+     * https://orcid.org/0000-0002-2198-6740 
+     * https://www.scopus.com/authid/detail.uri?authorId=55539804000
+     * http://www.researcherid.com/rid/F-3309-2011
+     * http://www.cienciavitae.pt//4710-147D-FDAF
 
 
 ✨ **Editor role**:
