@@ -5,6 +5,24 @@
 - 📫 How to reach me: https://orcid.org/0000-0002-2198-6740 // https://www.scopus.com/authid/detail.uri?authorId=55539804000 // http://www.researcherid.com/rid/F-3309-2011 // http://www.cienciavitae.pt//4710-147D-FDAF
 
 
+✨ **Editor role**:
+
+* 2019-Present: Editorial Advisory Board Member, Energy Sources, Part A: Recovery, Utilization, and Environmental Effects, Taylor & Francis (https://www.tandfonline.com/toc/ueso20/current)
+
+* 2020-Present: Editorial Board Member, Rudarsko-geološko-naftni zbornik (The Mining-Geological-Petroleum Engineering Bulletin), Faculty of Mining, Geology and Petroleum Engineering, University of Zagreb (https://hrcak.srce.hr/ojs/index.php/rgn)
+
+* 2021-Present: Associate Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
+
+* 2019-2022: Guest Editor, Sustainability, MDPI AG, Environmental Institutional Awareness in the Context of Sustainable Development (https://www.mdpi.com/journal/sustainability/special_issues/Awareness)
+
+* 2020-2022: Guest Editor, Social Sciences, MDPI AG, Violence, Victimization and Prevention (https://www.mdpi.com/journal/socsci/special_issues/violence_victimization_and_prevention)
+
+* 2021-Present: Topic Editor, Frontiers, Waste Challenges in the Context of Broad Sustainability Challenges
+(https://www.frontiersin.org/research-topics/21107/waste-challenges-in-the-context-of-broad-sustainability-challenges#overview)
+
+* 2021-2023: Guest Editor, Social Sciences, MDPI AG, Rethinking Child and Adolescent Multiple Victimization and Violence Prevention (https://www.mdpi.com/journal/socsci/special_issues/Child_Violence_Prevention)
+
+
 ✨ **Recent publications**:
 
 * Filho, W. L., Wall, T., Barbir, J., Alverio, G. N., Dinis, M. A. P., & Ramirez, J. (2022). Relevance of International Partnerships in the Implementation of the UN Sustainable Development Goals. **Nature Communications**, 13(1), Article 613. https://doi.org/10.1038/s41467-022-28230-x 
