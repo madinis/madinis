@@ -29,6 +29,8 @@
 
 ✨ **Recent publications**:
 
+* Leal Filho, W., Salvia, A. L., Paço, A., Dinis, M. A. P., Vidal, D. G., Cunha, D. A. D., Vasconcelos, C. R. d., Baumgartner, R., Rampasso, I., Anholon, R., Doni, F., Sonetti, G., Azeiteiro, U., Carvalho, S., & Ríos, F. J. M. (2022). The Influences of the COVID-19 Pandemic on Sustainable Consumption: an international study [Research]. **Environmental Sciences Europe**, 34, 1-17, Article 54. https://doi.org/10.1186/s12302-022-00626-y 
+* Leal Filho, W., Dinis, M. A. P., Ruiz-de-Maya, S., Doni, F., Eustachio, J. H., Swart, J., & Paço, A. (2022). The Economics of the UN Sustainable Development Goals: does sustainability make financial sense? [Comment]. **Discover Sustainability**, 3, 1-8, Article 20. https://doi.org/10.1007/s43621-022-00088-5 
 * Filho, W. L., Wall, T., Barbir, J., Alverio, G. N., Dinis, M. A. P., & Ramirez, J. (2022). Relevance of International Partnerships in the Implementation of the UN Sustainable Development Goals. **Nature Communications**, 13(1), Article 613. https://doi.org/10.1038/s41467-022-28230-x 
 * Filho, W. L., Yang, P., Eustachio, J. H. P. P., Azul, A. M., Gellers, J. C., Giełczyk, A., Dinis, M. A. P., & Kozlova, V. (2022). Deploying Digitalisation and Artificial Intelligence in Sustainable Development Research. **Environment, Development and Sustainability**. https://doi.org/10.1007/s10668-022-02252-3 
 * Filho, W. L., Eustachio, J. H. P. P., Dinis, M. A. P., Sharifi, A., Venkatesan, M., Donkor, F. K., Doni, F., Abubakar, I. R., Cichos, K., & Vargas-Hernández, J. (2022). Transient Poverty in a Sustainable Development Context. **International Journal of Sustainable Development & World Ecology**. https://doi.org/10.1080/13504509.2022.2029612 
