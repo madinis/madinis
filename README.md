@@ -7,6 +7,7 @@
      * https://www.scopus.com/authid/detail.uri?authorId=55539804000
      * http://www.researcherid.com/rid/F-3309-2011
      * http://www.cienciavitae.pt//4710-147D-FDAF
+     * https://padlet.com/madinis/
 
 
 ✨ **Editor role**:
