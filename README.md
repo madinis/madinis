@@ -30,6 +30,8 @@
 
 ✨ **Recent publications**:
 
+* Leal Filho, W., Caughman, L., Dinis, M. A. P., Frankenberger, F., Azul, A. M., & Salvia, A. L. (2022). Towards symbiotic approaches between universities, sustainable development, and cities [Article]. **Scientific Reports**, 12, 1-8, Article 11433. https://doi.org/10.1038/s41598-022-15717-2 
+* Leal Filho, W., Vidal, D. G., Chen, C., Petrova, M., Dinis, M. A. P., Yang, P., Rogers, S., Álvarez-Castañón, L. d. C., Djekic, I., Sharifi, A., & Neiva, S. (2022). An assessment of requirements in investments, new technologies and infrastructures to achieve the SDGs [Research]. **Environmental Sciences Europe**, 34, 1-17, Article 58. https://doi.org/10.1186/s12302-022-00629-9  
 * Leal Filho, W., Salvia, A. L., Paço, A., Dinis, M. A. P., Vidal, D. G., Cunha, D. A. D., Vasconcelos, C. R. d., Baumgartner, R., Rampasso, I., Anholon, R., Doni, F., Sonetti, G., Azeiteiro, U., Carvalho, S., & Ríos, F. J. M. (2022). The Influences of the COVID-19 Pandemic on Sustainable Consumption: an international study [Research]. **Environmental Sciences Europe**, 34, 1-17, Article 54. https://doi.org/10.1186/s12302-022-00626-y 
 * Leal Filho, W., Dinis, M. A. P., Ruiz-de-Maya, S., Doni, F., Eustachio, J. H., Swart, J., & Paço, A. (2022). The Economics of the UN Sustainable Development Goals: does sustainability make financial sense? [Comment]. **Discover Sustainability**, 3, 1-8, Article 20. https://doi.org/10.1007/s43621-022-00088-5 
 * Filho, W. L., Wall, T., Barbir, J., Alverio, G. N., Dinis, M. A. P., & Ramirez, J. (2022). Relevance of International Partnerships in the Implementation of the UN Sustainable Development Goals. **Nature Communications**, 13(1), Article 613. https://doi.org/10.1038/s41467-022-28230-x 
