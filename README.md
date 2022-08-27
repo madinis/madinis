@@ -5,8 +5,14 @@
 - 📫 How to reach me: 
      * https://orcid.org/0000-0002-2198-6740 
      * https://www.scopus.com/authid/detail.uri?authorId=55539804000
-     * http://www.researcherid.com/rid/F-3309-2011
+     * https://www.webofscience.com/wos/author/rid/F-3309-2011
      * http://www.cienciavitae.pt//4710-147D-FDAF
+     * https://scholar.google.com/citations?user=E_1REYIAAAAJ
+     * http://lattes.cnpq.br/8310409272261933
+     * https://loop.frontiersin.org/people/493603
+     * https://www.amazon.com/-/e/B07NGDNL2N
+     * https://www.goodreads.com/madinis
+     * https://www.linkedin.com/in/madinis
      * https://padlet.com/madinis/
 
 
