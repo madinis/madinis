@@ -7,6 +7,8 @@
      * https://www.scopus.com/authid/detail.uri?authorId=55539804000
      * https://www.webofscience.com/wos/author/rid/F-3309-2011
      * http://www.cienciavitae.pt//4710-147D-FDAF
+     * https://www.authenticus.pt/R-002-1GN
+     * https://www.researchgate.net/profile/Maria_Dinis
      * https://scholar.google.com/citations?user=E_1REYIAAAAJ
      * http://lattes.cnpq.br/8310409272261933
      * https://loop.frontiersin.org/people/493603
