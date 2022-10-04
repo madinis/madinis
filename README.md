@@ -24,7 +24,7 @@
 
 * 2020-Present: Editorial Board Member, Rudarsko-geološko-naftni zbornik (The Mining-Geological-Petroleum Engineering Bulletin), Faculty of Mining, Geology and Petroleum Engineering, University of Zagreb (https://hrcak.srce.hr/ojs/index.php/rgn)
 
-* 2021-Present: Associate Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
+* 2021-2022: Associate Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
 
 * 2019-2022: Guest Editor, Sustainability, MDPI AG, Environmental Institutional Awareness in the Context of Sustainable Development (https://www.mdpi.com/journal/sustainability/special_issues/Awareness)
 
@@ -41,6 +41,8 @@
 * 2022-2023: Guest Editor, Social Sciences, MDPI AG, Policing, Security and Safety in Urban Communities (https://www.mdpi.com/journal/socsci/special_issues/policing_in_urban_communities)
 
 * 2022-2023: Guest Editor, European Journal of Investigation in Health, Psychology and Education, MDPI AG, New Trends and Approaches on Cyberviolence (https://www.mdpi.com/journal/ejihpe/special_issues/4TE1451CK7)
+
+* 2022-2024: Deputy Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
 
 
 ✨ **Recent publications**:
