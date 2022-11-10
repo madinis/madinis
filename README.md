@@ -47,6 +47,8 @@
 
 ✨ **Recent publications**:
 
+
+* Leal Filho, W., Ozuyar, P. G., Dinis, M. A. P., Azul, A. M., Alvarez, M. G., Neiva, S. d. S., Salvia, A. L., Borsari, B., Danila, A., & Vasconcelos, C. R. (2022). Living Labs in the Context of the UN Sustainable Development Goals: State of the Art [Original article]. **Sustainability Science**. https://doi.org/10.1007/s11625-022-01240-w  
 * Leal Filho, W., Dinis, M. A. P., do Paço, A., Colaço, V. H., Ávila, L., Dennis, K., Tyler, D., Neiva, S., & Liakh, O. (2022). COVID-19 and sustainability in textile, apparel and fashion use: an assessment of trends [Original article]. **Textile Research Journal**. https://doi.org/10.1177/00405175221114167  
 * Leal Filho, W., Kovaleva, M., Tsani, S., Țîrcă, D.-M., Shiel, C., Dinis, M. A. P., Nicolau, M., Sima, M., Fritzen, B., Salvia, A. L., Minhas, A., Kozlova, V., Doni, F., Spiteri, J., Gupta, T., Wakunuma, K., Sharma, M., Barbir, J., Shulla, K., . . . Tripathi, S. (2022). Promoting gender equality across the sustainable development goals. **Environment, Development and Sustainability**. https://doi.org/10.1007/s10668-022-02656-1  
 * Leal Filho, W., Perry, P., Heim, H., Dinis, M. A. P., Moda, H., Ebhuoma, E., & Paço, A. (2022). An Overview of The Contribution of The Textiles Sector to Climate Change [Mini Review]. **Frontiers in Environmental Science**, 10, Article 973102. https://doi.org/10.3389/fenvs.2022.973102  
