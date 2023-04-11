@@ -43,12 +43,18 @@
 
 * 2022-2023: Guest Editor, European Journal of Investigation in Health, Psychology and Education, MDPI AG, New Trends and Approaches on Cyberviolence (https://www.mdpi.com/journal/ejihpe/special_issues/4TE1451CK7)
 
+* 2023-Present: Topic Editor, Frontiers, Motivational Interviewing in Forensic Settings
+(https://www.frontiersin.org/research-topics/41710/motivational-interviewing-in-forensic-settings)
+
 * 2022-2024: Deputy Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
+
+* 2023-Present: Associate Editor, Sustainable Consumption, a section within Frontiers in Climate and Frontiers in Sustainability, Frontiers (https://www.frontiersin.org/journals/sustainability/sections/sustainable-consumption)
 
 
 ✨ **Recent publications**:
 
 
+* Leal Filho, W., Trevisan, L. V., Rampasso, I. S., Anholon, R., Dinis, M. A. P., Brandli, L. L., Sierra, J., Salvia, A. L., Pretorius, R., Nicolau, M., Eustachio, J. P. P., & Mazutti, J. (2023). When the alarm bells ring: why the UN Sustainable Development Goals may not be achieved by 2030. **Journal of Cleaner Production**. https://doi.org/10.1016/j.jclepro.2023.137108 
 * Leal Filho, W., Vidal, D. G., Dinis, M. A. P., Lambrechts, W., Vasconcelos, C. R. P., Molthan-Hill, P., Abubakar, I. R., Dunk, R. M., & Salvia, A. L. (2023). Low carbon futures: assessing the status of decarbonisation efforts at universities within a 2050 perspective [Research]. **Energy, Sustainability and Society**, 13, Article 5. https://doi.org/10.1186/s13705-023-00384-6 
 * Leal Filho, W., Ozuyar, P. G., Dinis, M. A. P., Azul, A. M., Alvarez, M. G., Neiva, S. d. S., Salvia, A. L., Borsari, B., Danila, A., & Vasconcelos, C. R. (2022). Living Labs in the Context of the UN Sustainable Development Goals: State of the Art [Original article]. **Sustainability Science**. https://doi.org/10.1007/s11625-022-01240-w  
 * Leal Filho, W., Trevisan, L. V., Dinis, M. A. P., Sivapalan, S., Wahaj, Z., & Liakh, O. (2023). Ensuring sustainability in internationalisation efforts at higher education institutions [Literature Review]. **International Journal of Sustainability in Higher Education**. https://doi.org/10.1108/IJSHE-10-2022-0333
