@@ -50,6 +50,8 @@
 
 * 2023-Present: Associate Editor, Sustainable Consumption, a section within Frontiers in Climate and Frontiers in Sustainability, Frontiers (https://www.frontiersin.org/journals/sustainability/sections/sustainable-consumption)
 
+* 2023-present: Deputy Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijccsm)
+
 
 ✨ **Recent publications**:
 
