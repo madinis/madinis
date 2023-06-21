@@ -56,6 +56,7 @@
 ✨ **Recent publications**:
 
 
+* Leal Filho, W., Eustachio, J. H. P. P., Danila, A. C. N., Dinis, M. A. P., Salvia, A. L., Cotton, D. R. E., Frizzo, K., Trevisan, L. V., & Dibbern, T. (2023). Using data science for sustainable development in higher education [Research article]. **Sustainable Development**. https://doi.org/10.1002/sd.2638   
 * Leal Filho, W., Aina, Y., Dinis, M. A. P., Purcell, W., & Nagy, G. J. (2023). Climate Change: Why Higher Education Matters?. **Science of the Total Environment**, 892, Article 164819. https://doi.org/10.1016/j.scitotenv.2023.164819  
 * Leal Filho, W., Abubakar, I. R., Mifsud, M. C., Eustachio, J. H. P. P., Albrecht, C. F., Dinis, M. A. P., Borsari, B., Sharifi, A., Levesque, V. R., Ribeiro, P. C. C., LeVasseur, T. J., Pace, P., Trevisan, L. V., & Dibbern, T. A. (2023). Governance in the implementation of the UN sustainable development goals in higher education: Global trends. **Environment, Development and Sustainability**. https://doi.org/10.1007/s10668-023-03278-x 
 * Leal Filho, W., Trevisan, L. V., Rampasso, I. S., Anholon, R., Dinis, M. A. P., Brandli, L. L., Sierra, J., Salvia, A. L., Pretorius, R., Nicolau, M., Eustachio, J. P. P., & Mazutti, J. (2023). When the alarm bells ring: why the UN Sustainable Development Goals may not be achieved by 2030. **Journal of Cleaner Production**, 407, Article 137108. https://doi.org/10.1016/j.jclepro.2023.137108 
