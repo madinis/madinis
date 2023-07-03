@@ -55,7 +55,7 @@
 
 ✨ **Recent publications**:
 
-
+* Leal Filho, W., Brandli, L. L., Dinis, M. A. P., Vidal, D. G., Paço, A., Levesque, V., Salvia, A. L., Kozlova, V., Ávila, L. V., Fritzen, B., Abubakar, I. R., & Pace, P. (2023). International trends on transformative learning for urban sustainability [Research]. **Discover Sustainability**, 4(1), 1-13, Article 31. https://doi.org/10.1007/s43621-023-00145-7    
 * Leal Filho, W., Eustachio, J. H. P. P., Danila, A. C. N., Dinis, M. A. P., Salvia, A. L., Cotton, D. R. E., Frizzo, K., Trevisan, L. V., & Dibbern, T. (2023). Using data science for sustainable development in higher education [Research article]. **Sustainable Development**. https://doi.org/10.1002/sd.2638   
 * Leal Filho, W., Aina, Y., Dinis, M. A. P., Purcell, W., & Nagy, G. J. (2023). Climate Change: Why Higher Education Matters?. **Science of the Total Environment**, 892, Article 164819. https://doi.org/10.1016/j.scitotenv.2023.164819  
 * Leal Filho, W., Abubakar, I. R., Mifsud, M. C., Eustachio, J. H. P. P., Albrecht, C. F., Dinis, M. A. P., Borsari, B., Sharifi, A., Levesque, V. R., Ribeiro, P. C. C., LeVasseur, T. J., Pace, P., Trevisan, L. V., & Dibbern, T. A. (2023). Governance in the implementation of the UN sustainable development goals in higher education: Global trends. **Environment, Development and Sustainability**. https://doi.org/10.1007/s10668-023-03278-x 
