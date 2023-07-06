@@ -53,7 +53,7 @@
 * 2023-present: Deputy Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijccsm)
 
 
-✨ **Recent publications**:
+✨ **Some recent sustainability publications**:
 
 * Leal Filho, W., Brandli, L. L., Dinis, M. A. P., Vidal, D. G., Paço, A., Levesque, V., Salvia, A. L., Kozlova, V., Ávila, L. V., Fritzen, B., Abubakar, I. R., & Pace, P. (2023). International trends on transformative learning for urban sustainability [Research]. **Discover Sustainability**, 4(1), 1-13, Article 31. https://doi.org/10.1007/s43621-023-00145-7    
 * Leal Filho, W., Eustachio, J. H. P. P., Danila, A. C. N., Dinis, M. A. P., Salvia, A. L., Cotton, D. R. E., Frizzo, K., Trevisan, L. V., & Dibbern, T. (2023). Using data science for sustainable development in higher education [Research article]. **Sustainable Development**. https://doi.org/10.1002/sd.2638   
