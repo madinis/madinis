@@ -55,6 +55,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Dibbern, T., Trevisan, L. V., Cristofoletti, E. C., Dinis, M. A. P., Matandirotya, N., Sierra, J., Shulla, K., Buttriss, G., Decosta, P. L. E., Mbah, M., & Sanni, M. (2023). Mapping Universities-Communities Partnerships in the Delivery of the Sustainable Development Goals [Original Research Article]. **Frontiers in Environmental Science**, 11, 1-12, Article 1246875. https://doi.org/10.3389/fenvs.2023.1246875  
 * Leal Filho, W., Brandli, L. L., Dinis, M. A. P., Vidal, D. G., Paço, A., Levesque, V., Salvia, A. L., Kozlova, V., Ávila, L. V., Fritzen, B., Abubakar, I. R., & Pace, P. (2023). International trends on transformative learning for urban sustainability [Research]. **Discover Sustainability**, 4(1), 1-13, Article 31. https://doi.org/10.1007/s43621-023-00145-7    
 * Leal Filho, W., Eustachio, J. H. P. P., Danila, A. C. N., Dinis, M. A. P., Salvia, A. L., Cotton, D. R. E., Frizzo, K., Trevisan, L. V., & Dibbern, T. (2023). Using data science for sustainable development in higher education [Research article]. **Sustainable Development**. https://doi.org/10.1002/sd.2638   
 * Leal Filho, W., Aina, Y., Dinis, M. A. P., Purcell, W., & Nagy, G. J. (2023). Climate Change: Why Higher Education Matters?. **Science of the Total Environment**, 892, Article 164819. https://doi.org/10.1016/j.scitotenv.2023.164819  
