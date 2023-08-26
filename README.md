@@ -55,6 +55,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Dinis, M. A. P., Nagy, G. J., & Fracassi, U. (2023). On the (melting) rocks: climate change and the global issue of permafrost depletion [Short Communication]. **Science of the Total Environment**, Article 166615. https://doi.org/10.1016/j.scitotenv.2023.166615  
 * Leal Filho, W., Dinis, M. A. P., Salvia, A. L., Fritzen, B., Vasconcelos, C. R. d., & Albrecht, C. F. (2023). Influences of the Covid-19 pandemic on the impact factor of a sample of environment/sustainability-related journals [Viewpoint]. **International Journal of Sustainability in Higher Education**. https://doi.org/10.1108/IJSHE-08-2022-0283  
 * Leal Filho, W., Dibbern, T., Trevisan, L. V., Cristofoletti, E. C., Dinis, M. A. P., Matandirotya, N., Sierra, J., Shulla, K., Buttriss, G., Decosta, P. L. E., Mbah, M., & Sanni, M. (2023). Mapping Universities-Communities Partnerships in the Delivery of the Sustainable Development Goals [Original Research Article]. **Frontiers in Environmental Science**, 11, 1-12, Article 1246875. https://doi.org/10.3389/fenvs.2023.1246875  
 * Leal Filho, W., Brandli, L. L., Dinis, M. A. P., Vidal, D. G., Paço, A., Levesque, V., Salvia, A. L., Kozlova, V., Ávila, L. V., Fritzen, B., Abubakar, I. R., & Pace, P. (2023). International trends on transformative learning for urban sustainability [Research]. **Discover Sustainability**, 4(1), 1-13, Article 31. https://doi.org/10.1007/s43621-023-00145-7    
