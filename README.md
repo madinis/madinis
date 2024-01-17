@@ -32,7 +32,7 @@
 * 2021-2022: Topic Editor, Frontiers, Waste Challenges in the Context of Broad Sustainability Challenges
 (https://www.frontiersin.org/research-topics/21107/waste-challenges-in-the-context-of-broad-sustainability-challenges#overview)
 
-* 2022-2022: Topic Editor, Frontiers, Sustainability Challenges Around Energy Poverty in an Era of Global Environmental and Economic Crisis
+* 2022-2023: Topic Editor, Frontiers, Sustainability Challenges Around Energy Poverty in an Era of Global Environmental and Economic Crisis
 (https://www.frontiersin.org/research-topics/42363/sustainability-challenges-around-energy-poverty-in-an-era-of-global-environmental-and-economic-crisi)
 
 * 2020-2023: Guest Editor, Social Sciences, MDPI AG, Violence, Victimization and Prevention (https://www.mdpi.com/journal/socsci/special_issues/violence_victimization_and_prevention)
@@ -51,6 +51,8 @@
 * 2023-Present: Associate Editor, Sustainable Consumption, a section within Frontiers in Climate and Frontiers in Sustainability, Frontiers (https://www.frontiersin.org/journals/sustainability/sections/sustainable-consumption)
 
 * 2023-present: Deputy Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijccsm)
+
+* 2024-Present: Section Editor, Discover Sustainability, Springer Nature (https://link.springer.com/journal/43621)
 
 
 ✨ **Some recent sustainability publications**:
