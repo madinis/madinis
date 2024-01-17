@@ -37,9 +37,9 @@
 
 * 2020-2023: Guest Editor, Social Sciences, MDPI AG, Violence, Victimization and Prevention (https://www.mdpi.com/journal/socsci/special_issues/violence_victimization_and_prevention)
 
-* 2021-2023: Guest Editor, Social Sciences, MDPI AG, Rethinking Child and Adolescent Multiple Victimization and Violence Prevention (https://www.mdpi.com/journal/socsci/special_issues/Child_Violence_Prevention)
+* 2021-2024: Guest Editor, Social Sciences, MDPI AG, Rethinking Child and Adolescent Multiple Victimization and Violence Prevention (https://www.mdpi.com/journal/socsci/special_issues/Child_Violence_Prevention)
 
-* 2022-2023: Guest Editor, Social Sciences, MDPI AG, Policing, Security and Safety in Urban Communities (https://www.mdpi.com/journal/socsci/special_issues/policing_in_urban_communities)
+* 2022-2024: Guest Editor, Social Sciences, MDPI AG, Policing, Security and Safety in Urban Communities (https://www.mdpi.com/journal/socsci/special_issues/policing_in_urban_communities)
 
 * 2022-2023: Guest Editor, European Journal of Investigation in Health, Psychology and Education, MDPI AG, New Trends and Approaches on Cyberviolence (https://www.mdpi.com/journal/ejihpe/special_issues/4TE1451CK7)
 
