@@ -57,6 +57,8 @@
 
 ✨ **Some recent sustainability publications**:
 
+
+* Leal Filho, W., Dibbern, T. A., Dinis, M. A. P., Cristofoletti, E. C., Mbah, M., Mishra, A., Clarke, A., Samuel, N., Apraiz, J. C., Abubakar, I. R., & Aina, Y. A. (2024). The Added Value of Partnerships in Implementing the UN Sustainable Development Goals. **Journal of Cleaner Production**, Article 140794. https://doi.org/10.1016/j.jclepro.2024.140794   
 * Leal Filho, W., Dinis, M. A. P., Morales, M. F., Semitiel-García, M., Noguera-Méndez, P., Maya, S. R. d., Alarcón-del-Amo, M.-d.-C., Esteban-Lloret, N. N., & Pemartín, M. (2024). Assessing the Provisions for Sustainability in Economics Degree Programmes. **International Journal of Sustainability in Higher Education**. https://doi.org/10.1108/IJSHE-08-2023-0382   
 * Leal Filho, W., Wall, T., Salvia, A. L., Dinis, M. A. P., & Mifsud, M. (2023). The central role of climate action in achieving the United Nations' Sustainable Development Goals [Article]. **Scientific Reports**, 13, 1-7, Article 20582. https://doi.org/10.1038/s41598-023-47746-w   
 * Leal Filho, W., Dinis, M. A. P., Nagy, G. J., & Fracassi, U. (2023). On the (melting) rocks: climate change and the global issue of permafrost depletion [Short Communication]. **Science of the Total Environment**, 903, Article 166615. https://doi.org/10.1016/j.scitotenv.2023.166615  
