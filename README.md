@@ -46,6 +46,9 @@
 * 2023-Present: Topic Editor, Frontiers, Motivational Interviewing in Forensic Settings
 (https://www.frontiersin.org/research-topics/41710/motivational-interviewing-in-forensic-settings)
 
+* 2024-Present: Topic Editor, Frontiers, Global Excellence in Sustainability: Europe 
+(https://www.frontiersin.org/research-topics/60327/global-excellence-in-sustainability-europe)
+
 * 2022-2024: Deputy Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
 
 * 2023-Present: Associate Editor, Sustainable Consumption, a section within Frontiers in Climate and Frontiers in Sustainability, Frontiers (https://www.frontiersin.org/journals/sustainability/sections/sustainable-consumption)
