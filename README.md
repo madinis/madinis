@@ -60,6 +60,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Dinis, M. A. P., Liakh, O., Paço, A., Dennis, K., Shollo, F., & Sidsaph, H. (2024). Reducing the carbon footprint of the textile sector: an overview of impacts and solutions. **Textile Research Journal**, 1-17. https://doi.org/10.1177/00405175241236971 
 * Filho, W. L., Dinis, M. A. P., Nagy, G. J., Fracassi, U., & Aina, Y. A. (2024). A ticket to where? Dwindling snow cover impacts the winter tourism sector as a consequence of climate change [Short Communication]. **Journal of Environmental Management**, 356, Article 120554. https://doi.org/10.1016/j.jenvman.2024.120554    
 * Leal Filho, W., Trevisan, L. V., Dinis, M. A. P., Ulmer, N., Paço, A. M. F. d., Borsari, B., Sierra, J., & Salvia, A. L. (2024). Fostering Students’ Participation in the Implementation of the Sustainable Development Goals at Higher Education Institutions. **Discover Sustainability**, 5(1), 1-24, Article 22. https://doi.org/10.1007/s43621-024-00204-7   
 * Leal Filho, W., Eustachio, J. H. P. P., Danila, A. C. N., Dinis, M. A. P., Salvia, A. L., Cotton, D. R. E., Frizzo, K., Trevisan, L. V., & Dibbern, T. (2024). Using data science for sustainable development in higher education [Research article], 32(1), 15-28. **Sustainable Development**. https://doi.org/10.1002/sd.2638  
