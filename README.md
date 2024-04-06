@@ -60,6 +60,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Dinis, M. A. P., Vasconcelos, C. R. P., & Paço, A. (2024). Handling the Growing Problem of Offshore Food Waste [Short Communication]. **Marine Policy**, 163, 1-4, Article 106137. https://doi.org/10.1016/j.marpol.2024.106137 
 * Leal Filho, W., Luetz, J. M., Thanekar, U. D., Dinis, M. A. P., & Forrester, M. (2024). Climate-friendly healthcare: reducing the impacts of the healthcare sector on the world’s climate [Note and Comment]. **Sustainability Science**. https://doi.org/10.1007/s11625-024-01487-5  
 * Leal Filho, W., Dinis, M. A. P., Liakh, O., Paço, A., Dennis, K., Shollo, F., & Sidsaph, H. (2024). Reducing the carbon footprint of the textile sector: an overview of impacts and solutions. **Textile Research Journal**, 1-17. https://doi.org/10.1177/00405175241236971 
 * Filho, W. L., Dinis, M. A. P., Nagy, G. J., Fracassi, U., & Aina, Y. A. (2024). A ticket to where? Dwindling snow cover impacts the winter tourism sector as a consequence of climate change [Research article]. **Journal of Environmental Management**, 356, Article 120554. https://doi.org/10.1016/j.jenvman.2024.120554    
