@@ -60,6 +60,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Mbah, M. F., Dinis, M. A. P., Trevisan, L. V., Lange, D. d., Mishra, A., Rebelatto, B., Hassen, T. B., & Aina, Y. A. (2024). The role of artificial intelligence in the implementation of the UN Sustainable Development Goal 11: Fostering sustainable cities and communities. **Cities**, 150, 1-16, Article 105021. https://doi.org/10.1016/j.cities.2024.105021 
 * Leal Filho, W., Dinis, M. A. P., Vasconcelos, C. R. P., & Paço, A. (2024). Handling the Growing Problem of Offshore Food Waste [Short Communication]. **Marine Policy**, 163, 1-4, Article 106137. https://doi.org/10.1016/j.marpol.2024.106137 
 * Leal Filho, W., Luetz, J. M., Thanekar, U. D., Dinis, M. A. P., & Forrester, M. (2024). Climate-friendly healthcare: reducing the impacts of the healthcare sector on the world’s climate [Note and Comment]. **Sustainability Science**. https://doi.org/10.1007/s11625-024-01487-5  
 * Leal Filho, W., Dinis, M. A. P., Liakh, O., Paço, A., Dennis, K., Shollo, F., & Sidsaph, H. (2024). Reducing the carbon footprint of the textile sector: an overview of impacts and solutions. **Textile Research Journal**, 1-17. https://doi.org/10.1177/00405175241236971 
