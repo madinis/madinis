@@ -60,6 +60,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Zuñiga, R. A. A., Sierra, J., Dinis, M. A. P., Corazza, L., Nagy, G. J., & Aina, Y. A. (2024). An Assessment of Priorities in Handling Climate Change Impacts on Infrastructures [Article]. **Scientific Reports**, 14(1), 1-16, Article 14147. https://doi.org/10.1038/s41598-024-64606-3
 * Leal Filho, W., Dinis, M. A. P., Salvia, A. L., Sierra, J., Vasconcelos, H., Henderson-Wilson, C., Diatta, S., Kumar, T. V. L., Meirelles, M. G., & Carvalho, F. (2024). Assessing climate change and health provisions among staff in higher education institutions: A preliminary investigation [Research Article]. **PLOS ONE**, 19(5), 1-21, Article e0304019. https://doi.org/10.1371/journal.pone.0304019 
 * Leal Filho, W., Mbah, M. F., Dinis, M. A. P., Trevisan, L. V., Lange, D. d., Mishra, A., Rebelatto, B., Hassen, T. B., & Aina, Y. A. (2024). The role of artificial intelligence in the implementation of the UN Sustainable Development Goal 11: Fostering sustainable cities and communities. **Cities**, 150, 1-16, Article 105021. https://doi.org/10.1016/j.cities.2024.105021 
 * Leal Filho, W., Dinis, M. A. P., Vasconcelos, C. R. P., & Paço, A. (2024). Handling the Growing Problem of Offshore Food Waste [Short Communication]. **Marine Policy**, 163, 1-4, Article 106137. https://doi.org/10.1016/j.marpol.2024.106137 
