@@ -60,6 +60,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Eustachio, J. P. P., Avila, L. V., Dinis, M. A. P., Hernandez-Diaz, P. M., Batista, K., Borsari, B., & Abubakar, I. R. (2024). Enhancing the contribution of higher education institutions to sustainable development research: A focus on post-2015 SDGs [Review article]. **Sustainable Development**, 1-13. https://doi.org/10.1002/sd.3184 
 * Leal Filho, W., Sierra, J., Price, E., Eustachio, J. H. P. P., Novikau, A., Kirrane, M., Dinis, M. A. P., & Salvia, A. L. (2024). The Role of Universities in Accelerating the Sustainable Development Goals in Europe. **Scientific Reports**, 14(1), 1-14, Article 15464. https://doi.org/10.1038/s41598-024-65820-9 
 * Leal Filho, W., Zuñiga, R. A. A., Sierra, J., Dinis, M. A. P., Corazza, L., Nagy, G. J., & Aina, Y. A. (2024). An Assessment of Priorities in Handling Climate Change Impacts on Infrastructures [Article]. **Scientific Reports**, 14(1), 1-16, Article 14147. https://doi.org/10.1038/s41598-024-64606-3
 * Leal Filho, W., Dinis, M. A. P., Salvia, A. L., Sierra, J., Vasconcelos, H., Henderson-Wilson, C., Diatta, S., Kumar, T. V. L., Meirelles, M. G., & Carvalho, F. (2024). Assessing climate change and health provisions among staff in higher education institutions: A preliminary investigation [Research Article]. **PLOS ONE**, 19(5), 1-21, Article e0304019. https://doi.org/10.1371/journal.pone.0304019 
