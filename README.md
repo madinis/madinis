@@ -60,6 +60,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Martinelli, Y., Dinis, M. A. P., Rosa, C., & Messias, C. G. (2024). Climate change and environmental degradation in Yanomami People’s Land: Intersectional threats and the need for improved policy-making. **Environmental Science and Policy**, 162, 1-8, Article 103931. https://doi.org/10.1016/j.envsci.2024.103931 
 * Leal Filho, W., Luetz, J. M., & Dinis, M. A. P. (2024). University forests and carbon sequestration: an untapped potential [Comment]. **Discover Sustainability**, 5(1), 1-11, Article 362. https://doi.org/10.1007/s43621-024-00590-y 
 * Leal Filho, W., Eustachio, J. P. P., Avila, L. V., Dinis, M. A. P., Hernandez-Diaz, P. M., Batista, K., Borsari, B., & Abubakar, I. R. (2024). Enhancing the contribution of higher education institutions to sustainable development research: A focus on post-2015 SDGs [Review article]. **Sustainable Development**, 1-13. https://doi.org/10.1002/sd.3184 
 * Leal Filho, W., Sierra, J., Price, E., Eustachio, J. H. P. P., Novikau, A., Kirrane, M., Dinis, M. A. P., & Salvia, A. L. (2024). The Role of Universities in Accelerating the Sustainable Development Goals in Europe. **Scientific Reports**, 14(1), 1-14, Article 15464. https://doi.org/10.1038/s41598-024-65820-9 
