@@ -60,6 +60,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Trevisan, L. V., Wahaj, Z., Deda, D., Vasconcelos, C. R. P. d., Dibbern, T. A., Vargas, V. R., Iyer-Raniga, U., Anholon, R., Novikau, A., Abubakar, I. R., & Dinis, M. A. P. (2024). University rankings and sustainable development: the state of the art. **International Journal of Sustainability in Higher Education**, 1-22. https://doi.org/10.1108/IJSHE-11-2023-0530   
 * Leal Filho, W., Fritzen, B., Salvia, A. L., Dinis, M. A. P., & Vasconcelos, C. R. P. (2024). The transformative power of networking in the implementation of the Sustainable Development Goals [Research]. **Discover Sustainability**, 5(1), 1-14, Article 380. https://doi.org/10.1007/s43621-024-00591-x  
 * Leal Filho, W., Martinelli, Y., Dinis, M. A. P., Rosa, C., & Messias, C. G. (2024). Climate change and environmental degradation in Yanomami People’s Land: Intersectional threats and the need for improved policy-making. **Environmental Science and Policy**, 162, 1-8, Article 103931. https://doi.org/10.1016/j.envsci.2024.103931 
 * Leal Filho, W., Luetz, J. M., & Dinis, M. A. P. (2024). University forests and carbon sequestration: an untapped potential [Comment]. **Discover Sustainability**, 5(1), 1-11, Article 362. https://doi.org/10.1007/s43621-024-00590-y 
