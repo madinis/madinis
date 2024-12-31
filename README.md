@@ -57,6 +57,7 @@
 
 * 2024-Present: Section Editor, Discover Sustainability, Springer Nature (https://link.springer.com/journal/43621)
 
+* 2025-Present: Associate Editor, Journal of Cleaner Production, Elsevier (https://www.sciencedirect.com/journal/journal-of-cleaner-production)
 
 ✨ **Some recent sustainability publications**:
 
