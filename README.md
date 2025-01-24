@@ -46,8 +46,17 @@
 * 2023-Present: Topic Editor, Frontiers, Motivational Interviewing in Forensic Settings
 (https://www.frontiersin.org/research-topics/41710/motivational-interviewing-in-forensic-settings)
 
+* 2024-Present: Guest Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing, The Contribution of Ocean Carbon Sinks to Climate Change Mitigation 
+(https://www.emeraldgrouppublishing.com/calls-for-papers/contribution-ocean-carbon-sinks-climate-change-mitigation)
+
 * 2024-Present: Topic Editor, Frontiers, Global Excellence in Sustainability: Europe 
 (https://www.frontiersin.org/research-topics/60327/global-excellence-in-sustainability-europe)
+
+* 2024-Present: Topic Editor, Frontiers, Promoting Sustainable Urban Development: Cultivating Climate-Resilient Cities and Nurturing an Environmentally Conscious Lifestyle 
+(https://www.frontiersin.org/research-topics/63727/promoting-sustainable-urban-development-cultivating-climate-resilient-cities-and-nurturing-an-environmentally-conscious-lifestyle)
+
+* 2025-Present: Guest Editor, Discover Sustainability, Springer, Sustainability at the Intersection of Environmental Policy and Public Health: Cutting-Edge Strategies for A Resilient Future 
+(https://link.springer.com/collections/ccedibbbdf)
 
 * 2022-2024: Deputy Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
 
