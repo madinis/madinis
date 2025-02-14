@@ -70,6 +70,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Barbir, J., May, J., May, M., Swart, J., Yang, P., Dinis, M. A. P., Aina, Y., Bettencourt, S., Charvet, P., & Azadi, H. (2025). Towards more sustainable oceans: A review of the pressing challenges posed by marine plastic litter [Review Article]. **Waste Management & Research**. https://doi.org/10.1177/0734242X251313927 
 * Leal Filho, W., Neiva, S. d. S., Vasconcelos, C. R. P. d., Gomes, B. M. F., Sharifi, A., Kozlova, V., Mifsud, M., Pace, P., Platje, J. J., Dinis, M. A. P., da Cunha, D. A., Hopkins, E. A., & Rayman-Bacchus, L. (2024). Exploring the imperative of education and learning for sustainable development: research gaps and pathways. **International Journal of Sustainability in Higher Education**, 1-20. https://doi.org/10.1108/IJSHE-11-2023-0543 
 * Leal Filho, W., Sow, B. L., Perlin, A. P., Mbah, M. F., Costa, C. A. d., Azam, F. M. S., & Dinis, M. A. P. (2024). Addressing climate change education: relevant contributions from universities. **International Journal of Sustainability in Higher Education**, 1-20. https://doi.org/10.1108/IJSHE-11-2023-0542 
 * Matandirotya, N. R., Leal Filho, W., Mahed, G., Dinis, M. A. P., & Mathe, P. (2024). Local knowledge of climate change adaptation strategies from the _vhaVenda_ and _baTonga_ communities living in the Limpopo and Zambezi River Basins, Southern Africa. **Inland Waters**, 1-22. https://doi.org/10.1080/20442041.2024.2437932 
