@@ -70,6 +70,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Nagy, G. J., Gbaguidi, G. J., Paz, S., Dinis, M. A. P., Luetz, J. M., & Sharifi, A. (2025). The role of climatic changes in the emergence and re-emergence of infectious diseases: bibliometric analysis and literature-supported studies on zoonoses [Review]. **One Health Outlook**, 7(1), 1-12, Article 12. https://doi.org/10.1186/s42522-024-00127-3 
 * Leal Filho, W., Barbir, J., May, J., May, M., Swart, J., Yang, P., Dinis, M. A. P., Aina, Y., Bettencourt, S., Charvet, P., & Azadi, H. (2025). Towards more sustainable oceans: A review of the pressing challenges posed by marine plastic litter [Review Article]. **Waste Management & Research**. https://doi.org/10.1177/0734242X251313927 
 * Leal Filho, W., Neiva, S. d. S., Vasconcelos, C. R. P. d., Gomes, B. M. F., Sharifi, A., Kozlova, V., Mifsud, M., Pace, P., Platje, J. J., Dinis, M. A. P., da Cunha, D. A., Hopkins, E. A., & Rayman-Bacchus, L. (2024). Exploring the imperative of education and learning for sustainable development: research gaps and pathways. **International Journal of Sustainability in Higher Education**, 1-20. https://doi.org/10.1108/IJSHE-11-2023-0543 
 * Leal Filho, W., Sow, B. L., Perlin, A. P., Mbah, M. F., Costa, C. A. d., Azam, F. M. S., & Dinis, M. A. P. (2024). Addressing climate change education: relevant contributions from universities. **International Journal of Sustainability in Higher Education**, 1-20. https://doi.org/10.1108/IJSHE-11-2023-0542 
