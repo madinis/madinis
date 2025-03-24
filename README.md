@@ -46,8 +46,10 @@
 * 2023-Present: Topic Editor, Frontiers, Motivational Interviewing in Forensic Settings
 (https://www.frontiersin.org/research-topics/41710/motivational-interviewing-in-forensic-settings)
 
-* 2024-Present: Guest Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing, The Contribution of Ocean Carbon Sinks to Climate Change Mitigation 
+* 2024-Present: Guest Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing, Climate Financing in Mitigation and Adaptation 
 (https://www.emeraldgrouppublishing.com/calls-for-papers/contribution-ocean-carbon-sinks-climate-change-mitigation)
+
+2024-Present: Guest Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing, The Contribution of Ocean Carbon Sinks to Climate Change Mitigation (https://www.emeraldgrouppublishing.com/calls-for-papers/climate-financing-mitigation-and-adaptation)
 
 * 2024-Present: Topic Editor, Frontiers, Global Excellence in Sustainability: Europe 
 (https://www.frontiersin.org/research-topics/60327/global-excellence-in-sustainability-europe)
