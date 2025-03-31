@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+Leal Filho, W., Trevisan, L. V., Sivapalan, S., Mazhar, M., Kounani, A., Mbah, M. F., Abubakar, I. R., Matandirotya, N. R., Dinis, M. A. P., Borsari, B., & Abzug, R. (2025). Assessing the Impacts of Sustainability Teaching at Higher Education Institutions [Research]. **Discover Sustainability**, 6(1), 1-22, Article 227. https://doi.org/10.1007/s43621-025-01024-z 
 * Leal Filho, W., Wall, T., Williams, K., Dinis, M. A. P., Martin, R. M. F., Mazhar, M., & Gatto, A. (2025). European Sustainability Reporting Standards: an assessment of requirements and preparedness of EU companies [Research article]. **Journal of Environmental Management**, 380, Article 125008. https://doi.org/10.1016/j.jenvman.2025.125008 
 * Matandirotya, N. R., Leal Filho, W., Mahed, G., Dinis, M. A. P., & Mathe, P. (2025). Local knowledge of climate change adaptation strategies from the _vhaVenda_ and _baTonga_ communities living in the Limpopo and Zambezi River Basins, Southern Africa. **Inland Waters**, 1-13. https://doi.org/10.1080/20442041.2024.2437932 
 * Leal Filho, W., Nagy, G. J., Gbaguidi, G. J., Paz, S., Dinis, M. A. P., Luetz, J. M., & Sharifi, A. (2025). The role of climatic changes in the emergence and re-emergence of infectious diseases: bibliometric analysis and literature-supported studies on zoonoses [Review]. **One Health Outlook**, 7(1), 1-12, Article 12. https://doi.org/10.1186/s42522-024-00127-3 
