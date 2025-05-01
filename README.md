@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Ribeiro, I. P., Lopes, H. S., Dinis, M. A. P., & Remoaldo, P. C. (2025). Geography of Sustainability Transitions: Mapping Spatial Dynamics and Research Trends Between 1995 and 2024 [Review]. **Environments**, 12(5), 1-22, Article 148. https://doi.org/10.3390/environments12050148 
 * Pardal, A., Moreira, A., Galacho, C., Mateus, D., Viegas, L., Gaspar, M., Teixeira, M. R., Manteigas, V., & Dinis, M. A. P. (2025). From Knowledge to Action: How Portuguese Higher Education Students Engage with Circular Economy Principles [Article]. **Sustainability**, 17(7), 1-24, Article 3279. https://doi.org/10.3390/su17073279  
 * Leal Filho, W., Eustachio, J. P. P., Avila, L. V., Dinis, M. A. P., Hernandez-Diaz, P. M., Batista, K., Borsari, B., & Abubakar, I. R. (2025). Enhancing the contribution of higher education institutions to sustainable development research: A focus on post-2015 SDGs [Review article]. **Sustainable Development**, 33(2), 1745–1757. https://doi.org/10.1002/sd.3184 
 * Leal Filho, W., Trevisan, L. V., Sivapalan, S., Mazhar, M., Kounani, A., Mbah, M. F., Abubakar, I. R., Matandirotya, N. R., Dinis, M. A. P., Borsari, B., & Abzug, R. (2025). Assessing the Impacts of Sustainability Teaching at Higher Education Institutions [Research]. **Discover Sustainability**, 6(1), 1-22, Article 227. https://doi.org/10.1007/s43621-025-01024-z 
