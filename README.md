@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Abubakar, I. R., Hunt, J., & Dinis, M. A. P. (2025). Managing Space Debris: Risks, Mitigation Measures, and Sustainability Challenges. **Sustainable Futures**. https://doi.org/10.1016/j.sftr.2025.100849 
 * Leal Filho, W., Barbir, J., Venkatesan, M., Salvia, A. L., Dobri, A., Bošković, N., Eustachio, J. H. P. P., Ingram, I., & Dinis, M. A. P. (2025). Policy Gaps and Opportunities in Bio-Based Plastics: Implications for Sustainable Food Packaging [Review]. **Foods**, 14(11), 1-15, Article 1955. https://doi.org/10.3390/foods14111955 
 * Leal Filho, W., Dinis, M. A. P., Canova, M. A., Cataldi, M., Enrich-Prast, A., Symeonakis, E., & Brearley, F. Q. (2025). Managing ecosystem services in the Brazilian Amazon: the influence of deforestation and forest degradation in the world's largest rain forest [Research Letter]. **Geoscience Letters**, 12(1), 1-15, Article 24. https://doi.org/10.1186/s40562-025-00391-9 
 * Ribeiro, I. P., Lopes, H. S., Dinis, M. A. P., & Remoaldo, P. C. (2025). Geography of Sustainability Transitions: Mapping Spatial Dynamics and Research Trends Between 1995 and 2024 [Review]. **Environments**, 12(5), 1-22, Article 148. https://doi.org/10.3390/environments12050148 
