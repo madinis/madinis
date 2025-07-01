@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Dinis, M. A. P., & Hassen, T. B. (2025). Trade-Offs Among SDGs: How the Pursuit of Economic, Food, and Urban Development Goals May Undermine Climate and Equity Targets? [Review]. **Sustainable Development**, 1-11. https://doi.org/10.1002/sd.70029 
 * Leal Filho, W., Abubakar, I. R., Hunt, J., & Dinis, M. A. P. (2025). Managing Space Debris: Risks, Mitigation Measures, and Sustainability Challenges. **Sustainable Futures**, 10, 1-7, Article 100849. https://doi.org/10.1016/j.sftr.2025.100849 
 * Leal Filho, W., Barbir, J., Venkatesan, M., Salvia, A. L., Dobri, A., Bošković, N., Eustachio, J. H. P. P., Ingram, I., & Dinis, M. A. P. (2025). Policy Gaps and Opportunities in Bio-Based Plastics: Implications for Sustainable Food Packaging [Review]. **Foods**, 14(11), 1-15, Article 1955. https://doi.org/10.3390/foods14111955 
 * Leal Filho, W., Dinis, M. A. P., Canova, M. A., Cataldi, M., Enrich-Prast, A., Symeonakis, E., & Brearley, F. Q. (2025). Managing ecosystem services in the Brazilian Amazon: the influence of deforestation and forest degradation in the world's largest rain forest [Research Letter]. **Geoscience Letters**, 12(1), 1-15, Article 24. https://doi.org/10.1186/s40562-025-00391-9 
