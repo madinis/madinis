@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Júnior, V. R., Dinis, M. A. P., Luetz, J., Aver, G., & Guerra, J. B. S. d. A. (2026). Green Correction Facilities: Lessons from Case Studies in Sustainability in Prisons. **Cities**, 168, 1-10, Article 106523. https://doi.org/10.1016/j.cities.2025.106523 
 * Trevisan, L. V., Leal Filho, W., Pedrozo, E. Á., Nascimento, L. F. M. d., Vieira, K. M., Hernandez-Diaz, P. M., Dinis, M. A. P., & Salvia, A. L. (2025). Towards Smart Approaches to Sustainability on Campuses: Construction, Validation, and Assessment of a Measurement Scale [Research Paper]. **International Journal of Sustainability in Higher Education**, 1-22. https://doi.org/10.1108/IJSHE-10-2024-0744 
 * Leal Filho, W., Dinis, M. A. P., & Hassen, T. B. (2025). Trade-Offs Among SDGs: How the Pursuit of Economic, Food, and Urban Development Goals May Undermine Climate and Equity Targets? [Review]. **Sustainable Development**, 1-11. https://doi.org/10.1002/sd.70029 
 * Leal Filho, W., Abubakar, I. R., Hunt, J., & Dinis, M. A. P. (2025). Managing Space Debris: Risks, Mitigation Measures, and Sustainability Challenges. **Sustainable Futures**, 10, 1-7, Article 100849. https://doi.org/10.1016/j.sftr.2025.100849 
