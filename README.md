@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Luetz, J. M., Dinis, M. A. P., & Nagy, G. J. (2025). Dinner is served: how climate change interferes with olive oil production [Note and Comment]. **Sustainability Science**, 1-10. https://doi.org/10.1007/s11625-025-01756-x 
 * Filho, W. L., Kovaleva, M., Ng, A. W., Nagy, G. J., Lütz, J. M., & Dinis, M. A. P. (2025). Artificial intelligence and climate change: the potential roles of foundation models [Research]. **Environmental Sciences Europe**, 37(1), 1-9, Article 159. https://doi.org/10.1186/s12302-025-01153-2 
 * Leal Filho, W., Júnior, V. R., Dinis, M. A. P., Luetz, J., Aver, G., & Guerra, J. B. S. d. A. (2026). Green Correction Facilities: Lessons from Case Studies in Sustainability in Prisons. **Cities**, 168, 1-10, Article 106523. https://doi.org/10.1016/j.cities.2025.106523 
 * Trevisan, L. V., Leal Filho, W., Pedrozo, E. Á., Nascimento, L. F. M. d., Vieira, K. M., Hernandez-Diaz, P. M., Dinis, M. A. P., & Salvia, A. L. (2025). Towards Smart Approaches to Sustainability on Campuses: Construction, Validation, and Assessment of a Measurement Scale [Research Paper]. **International Journal of Sustainability in Higher Education**, 1-22. https://doi.org/10.1108/IJSHE-10-2024-0744 
