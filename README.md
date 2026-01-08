@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Luetz, J. M., Dinis, M. A. P., Hunt, J. D., & Nagy, G. J. (2026). Is Carbon Dioxide Removal in the Arctic Region Really Feasible? [Original research article]. **Resources, Environment and Sustainability**, Article 100289. https://doi.org/10.1016/j.resenv.2026.100289 
 * Leal Filho, W., Dinis, M. A. P., Fracassi, U., & Nagy, G. J. (2026). How cities are striving to cope with ever-increasing temperatures [Research Article]. **International Journal of Climate Change Strategies and Management**, 1–28. https://doi.org/10.1108/IJCCSM-09-2024-0167 
 * Moreira, R. S., Moita, S., Torres, J. M., Gouveia, F., Dinis, M. A. P., Ferreira, D., Araújo, M., & Guerreiro, M. J. S. (2025). Automating City Accessibility Constraints Mapping Through AI‐Assisted Scanning of Street View Imagery [Original Research]. **IET Smart Cities**, 7(1), 1-16, Article e70020. https://doi.org/10.1049/smc2.70020 
 * Leal Filho, W., Shollo, F., Sidsaph, H., Motta, W. H., Rampasso, I. S., Sigahi, T. F. A. C., Anholon, R., Meiriño, M. J., Campos, L. M. d. S., & Dinis, M. A. P. (2025). Circular economy implementation challenges for achieving SDG 12 [Research]. **Discover Sustainability**. https://doi.org/10.1007/s43621-025-02287-2 
