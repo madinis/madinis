@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Aina, Y. A., Almulhim, A. I., Salami, B. A., Swart, J., Abubakar, I. R., Dinis, M. A. P., & Sharifi, A. (2026). Trajectories of circular economy in cities: Key patterns and emerging pathways [Full Length Article]. **Cities**, Article 106852. https://doi.org/10.1016/j.cities.2026.106852 
 * Leal Filho, W., Sow, B. L., Perlin, A. P., Mbah, M. F., Costa, C. A. d., Azam, F. M. S., & Dinis, M. A. P. (2026). Addressing climate change education: relevant contributions from universities. **International Journal of Sustainability in Higher Education**, 27(1), 94–113. https://doi.org/10.1108/IJSHE-11-2023-0542 
 * Leal Filho, W., Luetz, J. M., Dinis, M. A. P., Hunt, J. D., & Nagy, G. J. (2026). Is Carbon Dioxide Removal in the Arctic Region Really Feasible? [Original research article]. **Resources, Environment and Sustainability**, 23, 1–8, Article 100289. https://doi.org/10.1016/j.resenv.2026.100289 
 * Leal Filho, W., Dinis, M. A. P., Fracassi, U., & Nagy, G. J. (2026). How cities are striving to cope with ever-increasing temperatures [Research Article]. **International Journal of Climate Change Strategies and Management**, 18(1), 42–69. https://doi.org/10.1108/IJCCSM-09-2024-0167 
