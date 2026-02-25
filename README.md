@@ -72,6 +72,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Esho, E. O., Akinyelu, A. A., & Dinis, M. A. P. (2026). Sustainable generative AI and quantum computing: review assessment on the environmental impact of generative AI and quantum technologies [Review]. **Frontiers in Sustainability**, 7, 1–23, Article 1726832. https://doi.org/10.3389/frsus.2026.1726832  
 * Aina, Y. A., Almulhim, A. I., Salami, B. A., Swart, J., Abubakar, I. R., Dinis, M. A. P., & Sharifi, A. (2026). Trajectories of circular economy in cities: Key patterns and emerging pathways [Full Length Article]. **Cities**, Article 106852. https://doi.org/10.1016/j.cities.2026.106852 
 * Leal Filho, W., Sow, B. L., Perlin, A. P., Mbah, M. F., Costa, C. A. d., Azam, F. M. S., & Dinis, M. A. P. (2026). Addressing climate change education: relevant contributions from universities. **International Journal of Sustainability in Higher Education**, 27(1), 94–113. https://doi.org/10.1108/IJSHE-11-2023-0542 
 * Leal Filho, W., Luetz, J. M., Dinis, M. A. P., Hunt, J. D., & Nagy, G. J. (2026). Is Carbon Dioxide Removal in the Arctic Region Really Feasible? [Original research article]. **Resources, Environment and Sustainability**, 23, 1–8, Article 100289. https://doi.org/10.1016/j.resenv.2026.100289 
