@@ -42,6 +42,8 @@
 * 2022-2024: Guest Editor, Social Sciences, MDPI AG, Policing, Security and Safety in Urban Communities (https://www.mdpi.com/journal/socsci/special_issues/policing_in_urban_communities)
 
 * 2022-2023: Guest Editor, European Journal of Investigation in Health, Psychology and Education, MDPI AG, New Trends and Approaches on Cyberviolence (https://www.mdpi.com/journal/ejihpe/special_issues/4TE1451CK7)
+  
+* 2026-Present: Guest Editor, International Journal of Environmental Research and Public Health, MDPI AG, Child Exposure to Domestic Violence: Risk Assessment, Protection Systems, and Psychosocial Interventions for Child and Family Well-Being (https://www.mdpi.com/journal/ijerph/special_issues/3R3OVJ5UY6)
 
 * 2023-Present: Topic Editor, Frontiers, Motivational Interviewing in Forensic Settings
 (https://www.frontiersin.org/research-topics/41710/motivational-interviewing-in-forensic-settings)
@@ -49,7 +51,7 @@
 * 2024-Present: Guest Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing, Climate Financing in Mitigation and Adaptation 
 (https://www.emeraldgrouppublishing.com/calls-for-papers/contribution-ocean-carbon-sinks-climate-change-mitigation)
 
-2024-Present: Guest Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing, The Contribution of Ocean Carbon Sinks to Climate Change Mitigation (https://www.emeraldgrouppublishing.com/calls-for-papers/climate-financing-mitigation-and-adaptation)
+* 2024-Present: Guest Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing, The Contribution of Ocean Carbon Sinks to Climate Change Mitigation (https://www.emeraldgrouppublishing.com/calls-for-papers/climate-financing-mitigation-and-adaptation)
 
 * 2024-2026: Topic Editor, Frontiers, Global Excellence in Sustainability: Europe 
 (https://www.frontiersin.org/research-topics/60327/global-excellence-in-sustainability-europe)
