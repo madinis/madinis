@@ -74,7 +74,7 @@
 
 ✨ **Some recent sustainability publications**:
 
-* Leal Filho, W., c, I. D., Newton Matandirotya, Donkor, F., Ibrahim, U., Mbih, R., Kateka, A., Roeseler, J., Sharifi, A., & Dinis, M. A. P. (2026). Climate change, planetary health and education in Africa – Some case studies and perspectives. **One Health**, Article 101406. https://doi.org/10.1016/j.onehlt.2026.101406 
+* Leal Filho, W., Djekic, I., Matandirotya, N., Donkor, F., Ibrahim, U., Mbih, R., Kateka, A., Roeseler, J., Sharifi, A., & Dinis, M. A. P. (2026). Climate change, planetary health and education in Africa – Some case studies and perspectives. **One Health**, Article 101406. https://doi.org/10.1016/j.onehlt.2026.101406 
 * Leal Filho, W., Aguiar, A. d. O. e., Elahi, M. M., Azam, F. M. S., Dinis, M. A. P., Eustachio, J. H. P. P., Mazhar, M., Mazutti, J., Gatto, A., Etxano, I., Kounani, A., Aina, Y. A., & Viota, M. (2026). Decarbonising university operations: strategies and challenges for Higher Education Institutions. **Environmental Sciences Europe**. https://doi.org/10.1186/s12302-026-01358-z 
 * Esho, E. O., Akinyelu, A. A., & Dinis, M. A. P. (2026). Sustainable generative AI and quantum computing: review assessment on the environmental impact of generative AI and quantum technologies [Review]. **Frontiers in Sustainability**, 7, 1–23, Article 1726832. https://doi.org/10.3389/frsus.2026.1726832  
 * Aina, Y. A., Almulhim, A. I., Salami, B. A., Swart, J., Abubakar, I. R., Dinis, M. A. P., & Sharifi, A. (2026). Trajectories of circular economy in cities: Key patterns and emerging pathways [Full Length Article]. **Cities**,  172, 1–15, Article 106852. https://doi.org/10.1016/j.cities.2026.106852 
