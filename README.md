@@ -74,6 +74,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Luetz, J. M., Almulhim, A. I., & Dinis, M. A. P. (2026). Assessing the carbon footprint of artificial intelligence in higher education: a bibliometric and institutional analysis [Research]. **Environmental Sciences Europe**. https://doi.org/10.1186/s12302-026-01414-8  
 * Leal Filho, W., Albrecht, C. F., Salvia, A. L., Frandoloso, M. A. L., Eustachio, J. H. P. P., Haddrell, C., Iyer-Raniga, U., Dinis, M. A. P., Borsari, B., Diaz-Sarachaga, J. M., & Emadeldin, Y. (2026). Building a Resilient World: The Contribution of Architecture Curricula to Sustainable Development [Research Article]. **International Journal of Sustainability in Higher Education**, 27(10), 323–343. https://doi.org/10.1108/IJSHE-05-2025-0423 
 * Leal Filho, W., Bichueti, R. S., Dinis, M. A. P., Begum, H., O’Hare, P., Malakar, K., Kouassi, J.-L., & Danumah, J. H. (2026). Cities and Climate Change: combining bibliometric trends and city-level evidence to understand the connections between urban resilience and adaptive capacity. **Environmental and Sustainability Indicators**, 30, 1–17, Article 101277. https://doi.org/10.1016/j.indic.2026.101277 
 * Leal Filho, W., Djekic, I., Matandirotya, N., Donkor, F., Ibrahim, U., Mbih, R., Kateka, A., Roeseler, J., Sharifi, A., & Dinis, M. A. P. (2026). Climate change, planetary health and education in Africa – Some case studies and perspectives. **One Health**, 22, 1-12, Article 101406. https://doi.org/10.1016/j.onehlt.2026.101406 
