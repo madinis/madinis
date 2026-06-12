@@ -53,8 +53,12 @@
 
 * 2024-Present: Guest Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing, The Contribution of Ocean Carbon Sinks to Climate Change Mitigation (https://www.emeraldgrouppublishing.com/calls-for-papers/climate-financing-mitigation-and-adaptation)
 
-* 2024-2026: Topic Editor, Frontiers, Global Excellence in Sustainability: Europe 
+* 2026-Present: Topic Editor, Frontiers, Global Excellence in Sustainability: Europe 
 (https://www.frontiersin.org/research-topics/60327/global-excellence-in-sustainability-europe)
+
+* 2024-2026: Topic Editor, Frontiers, Global Excellence in Sustainability: Europe – Volume II (https://www.frontiersin.org/research-topics/80808/global-excellence-in-sustainability-europe---volume-ii)
+  
+* 2026-Present: Topic Editor, Frontiers, Time, Terrain, and Life: The Crucial Role of the Geosciences Across Hazards, Climate, and Energy (https://www.frontiersin.org/research-topics/82139/time-terrain-and-life-the-crucial-role-of-the-geosciences-across-hazards-climate-and-energy)
 
 * 2024-Present: Topic Editor, Frontiers, Promoting Sustainable Urban Development: Cultivating Climate-Resilient Cities and Nurturing an Environmentally Conscious Lifestyle 
 (https://www.frontiersin.org/research-topics/63727/promoting-sustainable-urban-development-cultivating-climate-resilient-cities-and-nurturing-an-environmentally-conscious-lifestyle)
