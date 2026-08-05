@@ -66,6 +66,8 @@
 * 2025-Present: Guest Editor, Discover Sustainability, Springer, Sustainability at the Intersection of Environmental Policy and Public Health: Cutting-Edge Strategies for A Resilient Future 
 (https://link.springer.com/collections/ccedibbbdf)
 
+* 2026-Present: Guest Editor, Sustainability, MDPI AG, Sustainable Innovative Responses and Solutions to Health and Well-Being Threats of (Non-)Urban Communities (https://www.mdpi.com/journal/sustainability/special_issues/4IO7876F84)
+
 * 2022-2024: Deputy Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
 
 * 2023-Present: Associate Editor, Sustainable Consumption, a section within Frontiers in Climate and Frontiers in Sustainability, Frontiers (https://www.frontiersin.org/journals/sustainability/sections/sustainable-consumption)
