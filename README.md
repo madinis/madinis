@@ -80,6 +80,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Hassen, T. B., Dinis, M. A. P., Lin, C.-C., & Liu, W.-H. (2026). Mainstreaming Sustainability and Climate Change Across Higher Education: Lessons From Ten Pioneering Universities [Research article]. **Sustainable Development**, 1–18. https://doi.org/10.1002/sd.71544 
 * Leal Filho, W., Fedorukb, M., Kunykb, O., Semak, U., Yaroshenko, N., Ruda, M., Eustachio, J. P. P., Dinis, M. A. P., & Luetz, J. M. (2026). Ecocide in Ukraine: an assessment of geospatial and environmental evidence of war-related ecosystem destruction in Ukraine [Original Research]. **Frontiers in Environmental Science**, 14, 1–19, Article 1823887. https://doi.org/10.3389/fenvs.2026.1823887 
 * Leal Filho, W., Luetz, J. M., Almulhim, A. I., & Dinis, M. A. P. (2026). Assessing the carbon footprint of artificial intelligence in higher education: a bibliometric and institutional analysis [Research]. **Environmental Sciences Europe**, 38(1), 1–19, Article 132. https://doi.org/10.1186/s12302-026-01414-8  
 * Leal Filho, W., Albrecht, C. F., Salvia, A. L., Frandoloso, M. A. L., Eustachio, J. H. P. P., Haddrell, C., Iyer-Raniga, U., Dinis, M. A. P., Borsari, B., Diaz-Sarachaga, J. M., & Emadeldin, Y. (2026). Building a Resilient World: The Contribution of Architecture Curricula to Sustainable Development [Research Article]. **International Journal of Sustainability in Higher Education**, 27(10), 323–343. https://doi.org/10.1108/IJSHE-05-2025-0423 
