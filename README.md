@@ -80,6 +80,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Raman, R., Salvia, A. L., Brandli, L. L., Ávila, L. V., Dinis, M. A. P., & Khaled, N. N. D. (2026). How can higher education become climate-proof? **Journal of Cleaner Production**, 576, Article 149378. https://doi.org/10.1016/j.jclepro.2026.149378 
 * Leal Filho, W., Hassen, T. B., Dinis, M. A. P., Lin, C.-C., & Liu, W.-H. (2026). Mainstreaming Sustainability and Climate Change Across Higher Education: Lessons From Ten Pioneering Universities [Research article]. **Sustainable Development**, 1–18. https://doi.org/10.1002/sd.71544 
 * Leal Filho, W., Fedorukb, M., Kunykb, O., Semak, U., Yaroshenko, N., Ruda, M., Eustachio, J. P. P., Dinis, M. A. P., & Luetz, J. M. (2026). Ecocide in Ukraine: an assessment of geospatial and environmental evidence of war-related ecosystem destruction in Ukraine [Original Research]. **Frontiers in Environmental Science**, 14, 1–19, Article 1823887. https://doi.org/10.3389/fenvs.2026.1823887 
 * Leal Filho, W., Luetz, J. M., Almulhim, A. I., & Dinis, M. A. P. (2026). Assessing the carbon footprint of artificial intelligence in higher education: a bibliometric and institutional analysis [Research]. **Environmental Sciences Europe**, 38(1), 1–19, Article 132. https://doi.org/10.1186/s12302-026-01414-8  
