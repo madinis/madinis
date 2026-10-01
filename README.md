@@ -68,15 +68,17 @@
 
 * 2026-Present: Guest Editor, Sustainability, MDPI AG, Sustainable Innovative Responses and Solutions to Health and Well-Being Threats of (Non-)Urban Communities (https://www.mdpi.com/journal/sustainability/special_issues/4IO7876F84)
 
-* 2022-2024: Deputy Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
+* 2022-2026: Deputy Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
 
 * 2023-Present: Associate Editor, Sustainable Consumption, a section within Frontiers in Climate and Frontiers in Sustainability, Frontiers (https://www.frontiersin.org/journals/sustainability/sections/sustainable-consumption)
 
-* 2023-present: Deputy Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijccsm)
+* 2023-2025: Deputy Editor, International Journal of Climate Change Strategies and Management, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijccsm)
 
 * 2024-Present: Section Editor, Discover Sustainability, Springer Nature (https://link.springer.com/journal/43621)
 
 * 2025-Present: Associate Editor, Journal of Cleaner Production, Elsevier (https://www.sciencedirect.com/journal/journal-of-cleaner-production)
+
+* 2026-Present: Senior Deputy Editor, International Journal of Sustainability in Higher Education, Emerald Publishing (https://www.emeraldgrouppublishing.com/journal/ijshe)
 
 ✨ **Some recent sustainability publications**:
 
