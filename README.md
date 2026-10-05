@@ -82,6 +82,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Debrah, J. K., Teye, G. K., & Dinis, M. A. P. (2026). Understanding Climate Change Knowledge Among Basic and High School Students in Sub-Saharan Africa: Evidence from a Scoping Review and Bibliometric Analysis [Research Article]. **Applied Environmental Education & Communication**, 1–24. https://doi.org/10.1080/1533015X.2026.2732899 
 * Leal Filho, W., Raman, R., Salvia, A. L., Brandli, L. L., Ávila, L. V., Dinis, M. A. P., & Khaled, N. N. D. (2026). How can higher education become climate-proof? **Journal of Cleaner Production**, 576, Article 149378. https://doi.org/10.1016/j.jclepro.2026.149378 
 * Leal Filho, W., Hassen, T. B., Dinis, M. A. P., Lin, C.-C., & Liu, W.-H. (2026). Mainstreaming Sustainability and Climate Change Across Higher Education: Lessons From Ten Pioneering Universities [Research article]. **Sustainable Development**, 1–18. https://doi.org/10.1002/sd.71544 
 * Leal Filho, W., Fedorukb, M., Kunykb, O., Semak, U., Yaroshenko, N., Ruda, M., Eustachio, J. P. P., Dinis, M. A. P., & Luetz, J. M. (2026). Ecocide in Ukraine: an assessment of geospatial and environmental evidence of war-related ecosystem destruction in Ukraine [Original Research]. **Frontiers in Environmental Science**, 14, 1–19, Article 1823887. https://doi.org/10.3389/fenvs.2026.1823887 
