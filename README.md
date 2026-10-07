@@ -82,6 +82,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Kim, E., Mapar, M., Lang, J., Sharifi, A., Bradley, T., Ayal, D. Y., Aina, Y. A., Dinis, M. A. P., & Choate, B. (2026). Bridging skills gaps: how micro-credentials reshape sustainable development learning in higher education. **Smart Learning Environments**, 1–29. https://doi.org/10.1186/s40561-026-00471-z  
 * Debrah, J. K., Teye, G. K., & Dinis, M. A. P. (2026). Understanding Climate Change Knowledge Among Basic and High School Students in Sub-Saharan Africa: Evidence from a Scoping Review and Bibliometric Analysis [Research Article]. **Applied Environmental Education & Communication**, 1–24. https://doi.org/10.1080/1533015X.2026.2732899 
 * Leal Filho, W., Raman, R., Salvia, A. L., Brandli, L. L., Ávila, L. V., Dinis, M. A. P., & Khaled, N. N. D. (2026). How can higher education become climate-proof? **Journal of Cleaner Production**, 576, Article 149378. https://doi.org/10.1016/j.jclepro.2026.149378 
 * Leal Filho, W., Hassen, T. B., Dinis, M. A. P., Lin, C.-C., & Liu, W.-H. (2026). Mainstreaming Sustainability and Climate Change Across Higher Education: Lessons From Ten Pioneering Universities [Research article]. **Sustainable Development**, 1–18. https://doi.org/10.1002/sd.71544 
