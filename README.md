@@ -84,6 +84,7 @@
 
 ✨ **Some recent sustainability publications**:
 
+* Leal Filho, W., Grace, T., LeVasseur, T., Molthan-Hill, P., Dinis, M. A. P., Borsari, B., Abubakar, I. R., & Aina, Y. A. (2026). Locating and Bridging Higher Education’s Urgency Gap in Climate Action [Research]. **Discover Sustainability**, 1–15. https://doi.org/10.1007/s43621-026-05292-1  
 * Leal Filho, W., Hassen, T. B., Dinis, M. A. P., Lüetz, J. M., & Ibrahim, A. M. (2026). Understanding and Addressing the Root Causes of Climate Change Disinformation: An Integrative Review. **Climatic Change**, 179(11), 1–23, Article 232. https://doi.org/10.1007/s10584-026-04320-3   
 * Leal Filho, W., Kim, E., Mapar, M., Lang, J., Sharifi, A., Bradley, T., Ayal, D. Y., Aina, Y. A., Dinis, M. A. P., & Choate, B. (2026). Bridging skills gaps: how micro-credentials reshape sustainable development learning in higher education. **Smart Learning Environments**, 13(1), 1–31, Article 40. https://doi.org/10.1186/s40561-026-00471-z  
 * Debrah, J. K., Teye, G. K., & Dinis, M. A. P. (2026). Understanding Climate Change Knowledge Among Basic and High School Students in Sub-Saharan Africa: Evidence from a Scoping Review and Bibliometric Analysis [Research Article]. **Applied Environmental Education & Communication**, 1–24. https://doi.org/10.1080/1533015X.2026.2732899 
